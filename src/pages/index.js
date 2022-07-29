@@ -2,7 +2,7 @@ import React from "react";
 
 export default function Home() {
   return (
-    <div className="lg:h-screen h-full w-full flex items-center justify-center bg-[#CECECE] lg:py-[2rem] p-8 flex-col space-y-8">
+    <div className="lg:h-screen h-full w-full flex items-center justify-center bg-[#CECECE] lg:py-[3rem] p-8 flex-col space-y-8">
       <div className="max-w-sm mx-auto lg:block hidden">
         <h2 className="border-b-2 border-b-black text-5xl p-4 uppercase">
           Desktop
